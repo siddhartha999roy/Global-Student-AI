@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # এখানে আপনার API Key-টি সাবধানে দিন
 API_KEY = "আপনার_API_KEY_এখানে_দিন"
-genai.configure(api_key="AIzaSyBFd6bTlQLubZKK_EiX-23nKpxcg0Pm2i4")
+genai.configure(api_key="AIzaSyCD5zEfMr1dMc7JXpEFC1V_75AbI8W4KPs")
 
 st.title("🎓 Global Student AI")
 
